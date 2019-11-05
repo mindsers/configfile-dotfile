@@ -1,0 +1,10 @@
+export ZSH_CONF="$HOME/.config/zsh"
+
+source "$ZSH_CONF/vars.sh"
+source "$ZSH_CONF/sourcing-tools.sh"
+source "$ZSH_CONF/plugins.sh"
+source "$ZSH_CONF/aliases.sh"
+source "$ZSH_CONF/configfile.sh"
+
+# SSH
+ssh-add -D # Remove ssh agent cache

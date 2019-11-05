@@ -1,0 +1,12 @@
+[
+  {
+    "source_path": "init.vim",
+    "target_path": "~/.config/nvim/init.vim",
+    "global": true
+  },
+  {
+    "source_path": "settings",
+    "target_path": "~/.config/nvim/settings",
+    "global": true
+  }
+]

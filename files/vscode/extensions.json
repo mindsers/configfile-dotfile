@@ -1,0 +1,19 @@
+[
+  "angular.ng-template",
+  "msjsdiag.debugger-for-chrome",
+  "peterjausovec.vscode-docker",
+  "editorconfig.editorconfig",
+  "dbaeumer.vscode-eslint",
+  "eamodio.gitlens",
+  "kumar-harsh.graphql-for-vscode",
+  "pkief.material-icon-theme",
+  "eg2.vscode-npm-script",
+  "christian-kohler.npm-intellisense",
+  "zhuangtongfa.material-theme",
+  "ms-python.python",
+  "robinbentley.sass-indented",
+  "wayou.vscode-todo-highlight",
+  "eg2.tslint",
+  "vscodevim.vim",
+  "ms-vsliveshare.vsliveshare"
+]

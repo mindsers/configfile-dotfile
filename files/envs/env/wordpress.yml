@@ -1,0 +1,18 @@
+version: '3.1'
+
+services:
+  wordpress:
+    image: wordpress
+    container_name: wordpress_local
+    ports:
+      - 9990:80
+    environment:
+      WORDPRESS_DB_HOST: mysql
+      WORDPRESS_DB_USER: dev
+      WORDPRESS_DB_PASSWORD: pass
+    volumes:
+      - ./themes:/var/www/html/wp-content/themes
+networks:
+  default:
+    external:
+      name: mindsers.dev

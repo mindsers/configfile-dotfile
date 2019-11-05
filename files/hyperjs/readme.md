@@ -1,0 +1,1 @@
+Hyper.JS seems to lock `.hyper.js` file. If it does, copy-past manually this file.

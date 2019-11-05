@@ -1,0 +1,12 @@
+[
+  {
+    "source_path": "editorconfig",
+    "target_path": "./.editorconfig",
+    "global": false
+  },
+  {
+    "source_path": "editorconfig",
+    "target_path": "~/.editorconfig",
+    "global": true
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "source_path": "zshrc",
+    "target_path": "~/.zshrc",
+    "global": true
+  },
+  {
+    "source_path": "vars",
+    "target_path": "~/.config/zsh/vars",
+    "global": true
+  },
+  {
+    "source_path": "vars.sh",
+    "target_path": "~/.config/zsh/vars.sh",
+    "global": true
+  },
+  {
+    "source_path": "configfile.sh",
+    "target_path": "~/.config/zsh/configfile.sh",
+    "global": true
+  },
+  {
+    "source_path": "plugins.sh",
+    "target_path": "~/.config/zsh/plugins.sh",
+    "global": true
+  },
+  {
+    "source_path": "aliases.sh",
+    "target_path": "~/.config/zsh/aliases.sh",
+    "global": true
+  },
+  {
+    "source_path": "sourcing-tools.sh",
+    "target_path": "~/.config/zsh/sourcing-tools.sh",
+    "global": true
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "editor.fontFamily": "Fira Code, Menlo, Monaco, 'Courier New', monospace",
+  "editor.renderWhitespace": "all",
+  "editor.fontLigatures": true,
+  "terminal.integrated.shell.osx": "/usr/local/bin/zsh",
+  "workbench.colorTheme": "One Dark Pro",
+  "workbench.iconTheme": "material-icon-theme"
+}

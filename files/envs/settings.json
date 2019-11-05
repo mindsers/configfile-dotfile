@@ -1,0 +1,12 @@
+[
+  {
+    "source_path": "data",
+    "target_path": "~/Developer/data",
+    "global": true
+  },
+  {
+    "source_path": "env/wordpress.yml",
+    "target_path": "~/Developer/env/wordpress/docker-compose.yml",
+    "global": true
+  }
+]

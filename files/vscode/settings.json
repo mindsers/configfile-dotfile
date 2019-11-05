@@ -1,0 +1,7 @@
+[
+  {
+    "source_path": "global.json",
+    "target_path": "~/Library/Application Support/Code/User/settings.json",
+    "global": true
+  }
+]
